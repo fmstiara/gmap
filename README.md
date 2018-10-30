@@ -36,3 +36,15 @@ https://qiita.com/enzen/items/9a919a75ebf0a34e7b91
 - @longtitude -> @map.longtitude
 - @address -> @map.address
 - に修正しただけ。
+
+# 試す際は
+```html:show.html.erb
+    <script async defer
+  　　  src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=[ここに取得したAPIkeyを入力]&callback=initMap">
+    </script>
+```
+にAPI Keyを入力する。
+
+# P.S.
+<script>のasyncとdefertって何？という方は
+https://qiita.com/phanect/items/82c85ea4b8f9c373d684　の記事を読むと最高になれます。
