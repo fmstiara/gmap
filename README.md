@@ -31,7 +31,7 @@ https://qiita.com/enzen/items/9a919a75ebf0a34e7b91
 このqiitaの記事に加えて,  
 
 - formで住所を送り、経度・経度を保存する
-- funciton initMap()ないのでruby変数を
+- funciton initMap()の中でのruby変数を
 - @latitude -> @map.latitude
 - @longtitude -> @map.longtitude
 - @address -> @map.address
