@@ -46,5 +46,5 @@ https://qiita.com/enzen/items/9a919a75ebf0a34e7b91
 にAPI Keyを入力する。
 
 # P.S.
-<script>のasyncとdefertって何？という方は
+<script>のasyncとdeferって何？という方は
 https://qiita.com/phanect/items/82c85ea4b8f9c373d684　の記事を読むと最高になれます。
